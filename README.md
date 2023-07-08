@@ -2,7 +2,7 @@
 
 Breast Cancer Classification:
 
-Using logical regression for binary classification predicting whether it is benign or malignant 
+Using Random forest for binary classification predicting whether it is benign or malignant 
 Accuracy on testing data = 93%
 
 Credit card fraud detection:
